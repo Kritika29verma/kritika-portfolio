@@ -1,0 +1,44 @@
+{
+  "name": "Kritika Verma",
+  "title": "Creative Web Developer",
+  "tagline": "Crafting Beautiful Digital Experiences",
+  "about": "I'm a passionate web developer who loves creating interactive and visually stunning web experiences. With a keen eye for design and a deep understanding of modern web technologies, I transform ideas into elegant, functional websites that users love.",
+  "bio": "With expertise in modern web development and a passion for clean, efficient code, I specialize in building responsive, user-friendly applications. I believe in the power of great design combined with solid engineering to create digital products that make a difference.",
+  "skills": [
+    { "name": "HTML5", "level": 95 },
+    { "name": "CSS3 & Tailwind", "level": 90 },
+    { "name": "JavaScript", "level": 88 },
+    { "name": "React", "level": 92 },
+   
+    { "name": "TypeScript", "level": 80 },
+    { "name": "Framer Motion", "level": 87 },
+    { "name": "UI/UX Design", "level": 83 }
+  ],
+  "projects": [
+    {
+      "title": "World Tour Map Website",
+      "description": "Developed an interactive world map platform to pin and track visited locations using React.js and Leaflet.js with a responsive, modern UI.",
+      "technologies": ["Next.js", "React", "Stripe", "Tailwind CSS"],
+      "link": "#"
+    },
+  
+    {
+      "title": "Portfolio Website",
+      "description": "Personal portfolio built with smooth animations, interactive elements, and a modern design system.",
+      "technologies": ["Next.js", "Framer Motion", "Tailwind CSS"],
+      "link": "#"
+    },
+    {
+      "title": "Reddit Client",
+      "description": "Currently building a Reddit client using React and Reddit API to display live subreddit posts in dynamic, customizable lanes with a responsive UI.",
+      "technologies": ["React", "API Integration", "Charts.js"],
+      "link": "#"
+    }
+  ],
+  "contact": {
+    "email": "kritikaverma2909@gmail.com",
+    "linkedin": "https://linkedin.com/in/kritikaverma",
+    "github": "https://github.com/kritikaverma",
+   "twitter": "https://twitter.com/kritikaverma"
+  }
+}
